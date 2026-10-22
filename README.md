@@ -22,27 +22,35 @@ University projects developed individually or collaboratively as part of coursew
 
 - **[Fitness Centar — Desktop Application](https://github.com/steesiic/Fitness-Centar---Desktop-APK)** — The second part of a larger project for the *Database Systems* course, focused on developing a desktop application using NHibernate ORM and Fluent NHibernate mappings.
 
-  - [Part 1 — Database Design and Implementation](https://github.com/Jodz4/Fitness_Centar_baza_podataka)
-  - [Part 3 — Web API](https://github.com/mi1anche/Fitness_Centar_TreciProjekat)
-
 ## 📚 Other Coursework
 
 University assignments, practical exercises, and projects organized by academic year.
 
-### 2nd Year
+<table>
+<tr>
+<th>2nd Year</th>
+<th>3rd Year</th>
+</tr>
+<tr>
+<td>
 
 - [AOR1](https://github.com/steesiic/AOR1)
 - [AOR2](https://github.com/steesiic/AOR2)
 - [OOP](https://github.com/steesiic/OOP)
 - [Strukture Podataka](https://github.com/steesiic/Strukture-Podataka)
 
-### 3rd Year
+</td>
+<td>
 
 - [HCI](https://github.com/steesiic/HCI)
 - [Paralelni Sistemi](https://github.com/steesiic/Paralelni-Sistemi)
 - [PiAA](https://github.com/steesiic/PiAA)
 - [Racunarske Mreze](https://github.com/steesiic/Racunarske-Mreze)
 - [Web programiranje](https://github.com/steesiic/Web-Programiranje)
+
+</td>
+</tr>
+</table>
 
 ---
 
